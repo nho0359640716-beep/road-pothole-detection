@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas
+ultralytics
+opencv-python
+imageio
+imageio-ffmpeg
+folium
+streamlit-folium
+streamlit-geolocation
